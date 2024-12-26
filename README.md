@@ -30,5 +30,5 @@ This project is a simple implementation of the classic Rock-Paper-Scissors game 
 └── .gitignore      ## Git ignore file```
 
 ## Screenshot
-![Game Screenshot]("C:\Users\ps529\OneDrive\Pictures\Screenshots\Screenshot (1).png")
+![Game Screenshot]("Screenshot (1).png")
    
