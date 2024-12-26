@@ -29,6 +29,3 @@ This project is a simple implementation of the classic Rock-Paper-Scissors game 
 ├── LICENSE         ## License for the project
 └── .gitignore      ## Git ignore file```
 
-## Screenshot
-![Game Screenshot]("Screenshot (1).png")
-   
